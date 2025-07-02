@@ -1,0 +1,11 @@
+text='Wow what a text'
+print(text.lower())
+print(text.upper())
+print(text.title())
+print(text.swapcase())
+print(text.capitalize())
+print(text.count('w'))
+print(text.find('a'))
+print(text.index('a'))
+list=text.split()
+print(' '.join(list))
